@@ -20,11 +20,8 @@
 </div>
 
 # 🔧 Features
-![`Workflow of HiADN`](./img/HiADN_Framework.png)
+![`Workflow of HiADN`](./img/Figure01.png)
 
----
-
-![`Structure of HiADN Network`](./img/HiADN.png)
 
 ## Unique features of HiADN
 ![](./img/Compare.png)
